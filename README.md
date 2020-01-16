@@ -1,0 +1,1 @@
+# dotnet-rdkafka-sasl-sspi-wrapper
